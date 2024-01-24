@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.imagem-amarilla1:hover {
+    content: url(https://th.bing.com/th/id/R.2b499d6874e4bf810316509ad4e4fd97?rik=OhuT8x%2fLGpcLtA&riu=http%3a%2f%2fcdn.xl.thumbs.canstockphoto.com%2fcanstock3839425.jpg&ehk=5A%2fpyG%2fcW5qv8vf6Fgh0Cq0N3W2bcVrGwE1JDUNwMoY%3d&risl=&pid=ImgRaw&r=0);
+}
